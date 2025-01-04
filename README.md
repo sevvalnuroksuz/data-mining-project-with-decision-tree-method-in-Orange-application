@@ -1,0 +1,1 @@
+# data-mining-project-with-decision-tree-method-in-Orange-application
