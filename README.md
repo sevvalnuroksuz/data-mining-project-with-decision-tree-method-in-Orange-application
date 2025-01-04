@@ -1,5 +1,5 @@
 # data-mining-project-with-decision-tree-method-in-Orange-application 
-# BLM0463 Introduction to Data Mining
+
 
 ## Summary
 In this project, using Orange platform and Maternal Health Risk dataset, classification was performed with decision tree based methods and results were obtained. The dataset is taken from [UCI Machine Learning Repository](https://archive.ics.uci.edu/).
